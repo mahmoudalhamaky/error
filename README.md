@@ -1,6 +1,14 @@
 # test1
 
-A new Flutter project.
+An Error.
+the code run with no problem 
+
+after add just audio library 
+it comes with error
+as you see
+
+after removing the audio library 
+the code run with no problem
 
 ## Getting Started
 
